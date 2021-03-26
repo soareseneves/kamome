@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "1150"
+   LastUpgradeVersion = "1220"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5ED97FEB24B8BB1900B84867"
-               BuildableName = "kamome.framework"
-               BlueprintName = "kamome"
+               BlueprintIdentifier = "5ED97FF924B8BCFF00B84867"
+               BuildableName = "kamomeUniversal"
+               BlueprintName = "kamomeUniversal"
                ReferencedContainer = "container:kamome.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -50,9 +50,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5ED97FEB24B8BB1900B84867"
-            BuildableName = "kamome.framework"
-            BlueprintName = "kamome"
+            BlueprintIdentifier = "5ED97FF924B8BCFF00B84867"
+            BuildableName = "kamomeUniversal"
+            BlueprintName = "kamomeUniversal"
             ReferencedContainer = "container:kamome.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
